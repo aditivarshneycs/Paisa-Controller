@@ -3,9 +3,9 @@ import "../styles/dashboard.css";
 
 const Dashboard = () => {
   return (
-    <div className="dashboard-container">
-      <h2>Dashboard</h2>
-      <p>View your financial summary and insights.</p>
+    <div className="dashboard">
+      <h1>Dashboard</h1>
+      <p>Overview of your financial activities.</p>
     </div>
   );
 };

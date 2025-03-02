@@ -12,7 +12,6 @@ const Navbar = () => {
         <li><Link to="/transactions">Transactions</Link></li>
         <li><Link to="/budget">Budget</Link></li>
         <li><Link to="/reports">Reports</Link></li>
-        <li><Link to="/settings">Settings</Link></li>
       </ul>
     </nav>
   );

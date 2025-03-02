@@ -1,10 +1,10 @@
 import React from "react";
-import "../styles/footer.css"; // Add this file for styling
+import "../styles/footer.css";
 
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2025 Paisa Controller. All Rights Reserved.</p>
+      <p>© 2025 Paisa Controller. All rights reserved.</p>
     </footer>
   );
 };

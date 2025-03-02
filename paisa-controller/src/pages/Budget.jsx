@@ -3,9 +3,9 @@ import "../styles/budget.css";
 
 const Budget = () => {
   return (
-    <div className="budget-container">
-      <h2>Budget Management</h2>
-      <p>Set and track your budget limits.</p>
+    <div className="budget">
+      <h1>Budget Management</h1>
+      <p>Set your budget and track expenses.</p>
     </div>
   );
 };

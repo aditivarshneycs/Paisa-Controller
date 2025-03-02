@@ -3,9 +3,9 @@ import "../styles/home.css";
 
 const Home = () => {
   return (
-    <div className="home-container">
-      <h2>Welcome to Paisa Controller</h2>
-      <p>Track your expenses, manage budgets, and achieve financial freedom.</p>
+    <div className="home">
+      <h1>Welcome to Paisa Controller</h1>
+      <p>Track your expenses and manage your budget easily.</p>
     </div>
   );
 };
